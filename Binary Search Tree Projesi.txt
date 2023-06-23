@@ -1,0 +1,61 @@
+Proje 3
+
+Cevap-1:
+
+[7,5,1,8,3,6,0,9,4,2] dizisinin Binary-Search-Tree aşamaları aşağıdadır:
+
+- Başlangıçta root düğümünü belirleyelim = root: 7
+- Sıradaki elemanı root düğümü ile karşılaştırarak ağaca ekleriz:
+  5, root'un solunda yer alır.
+- Bir sonraki elemanı root düğümü ile karşılaştırarak ağaca ekleriz:
+  1, root'un solunda yer alır.
+  root'un solunda 5 vardı.
+  5'in solunda 1 olur.
+- Bir sonraki elemanı root düğümü ile karşılaştırarak ağaca ekleriz:
+  8, root'un sağına yer alır.
+- Bir sonraki elemanı root düğümü ile karşılaştırarak ağaca ekleriz:
+  3, root'un solunda yer alır.
+  root'un solunda 5 vardı.
+  5'in solunda 1 vardı.
+  1'in sağına 3 gelir.
+- Bir sonraki elemanı root düğümü ile karşılaştırarak ağaca ekleriz:
+  6, root'un solunda yer alır.
+  root'un solunda 5 vardı.
+  5'in solunda 1 vardı.
+  1'in sağında 3 vardı.
+  3'ün sağına 6 gelir.
+- Bir sonraki elemanı root düğümü ile karşılaştırarak ağaca ekleriz:
+  0, root'un solunda yer alır.
+  root'un solunda 5 vardı.
+  5'in solunda 1 vardı.
+  1'in solunda 0 gelir.
+- Bir sonraki elemanı root düğümü ile karşılaştırarak ağaca ekleriz:
+  9, root'un sağında yer alır.
+  root'un sağında 8 vardı
+  8'in sağına 9 gelir.
+- Bir sonraki elemanı root düğümü ile karşılaştırarak ağaca ekleriz:
+  4, root'un solunda yer alır.
+  root'un solunda 5 vardı.
+  5'in solunda 1 vardı.
+  1'in sağında 3 vardı.
+  3'ün sağına 4 gelir.
+
+- Ve son elemanı root düğümü ile karşılaştırarak ağaca ekleriz:
+  2, root'un solunda yer alır.
+  root'un solunda 5 vardı.
+  5'in solunda 1 vardı
+  1'in solunda 0, sağında 3 vardı.
+  0'ın sağına 3'e gidilir.
+  3'ün solunda 2 gelir.
+
+Böylelikle son haliyle oluşan Binary Search Tree:
+
+           7
+          / \
+         5   8
+        / \   \
+       1   6   9
+      / \  
+     0   3   
+        / \
+       2   4

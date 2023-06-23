@@ -1,0 +1,30 @@
+Proje 1
+
+Cevap-1:
+
+[22,27,16,2,18,6] -> Insertion Sort
+Yukarı verilen dizinin sort türüne göre aşamaları aşağıdaki gibidir:
+
+[22,27,16,2,18,6] = n 
+[2,22,27,16,18,6] = (n-1)
+[2,6,22,27,16,18] = (n-2)
+[2,6,16,22,27,18] = (n-3)
+[2,6,16,18,22,27] = 1
+
+Big-O Notation hesabı = n+(n-1)+(n-2)+(n-3)+1 = n*(n+1)/2 = (n^2+n)/2 = O(n^2)
+
+Cevap-2:
+
+Dizi sıralandıktan sonra 18 sayısı, Average case'e girer çünkü aradığımız sayı ortada olması durumunda, ortalama bir zaman karmaşıklığına sahip olur.
+
+Cevap-3:
+
+[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını aşağıdadır:
+
+[7,3,5,8,2,9,4,15,6] = En küçük elemanı bulmak için diziyi taradık.
+[2,3,5,8,7,9,4,15,6] = En küçük eleman 2 olduğu için 2'yi ilk elemanla yer değiştirdik.
+[2,3,5,8,7,9,4,15,6] = İkinci en küçük eleman 3 olduğu için 3'ü ikinci elemanla yer değiştirdik.
+[2,3,4,8,7,9,5,15,6] = Üçüncü en küçük eleman 4 olduğu için 4'ü üçüncü elemanla yer değiştirdik.
+
+4 adım sonundaki dizimiz = [2,3,4,8,7,9,5,15,6] 
+
