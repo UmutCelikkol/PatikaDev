@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "diziler-array-sinif-metodlari/1.0.0": {
+        "runtime": {
+          "diziler-array-sinif-metodlari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "diziler-array-sinif-metodlari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

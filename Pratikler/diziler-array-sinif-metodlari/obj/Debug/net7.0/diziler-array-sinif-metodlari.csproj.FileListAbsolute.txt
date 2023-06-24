@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler-array-sinif-metodlari\bin\Debug\net7.0\diziler-array-sinif-metodlari.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler-array-sinif-metodlari\bin\Debug\net7.0\diziler-array-sinif-metodlari.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler-array-sinif-metodlari\bin\Debug\net7.0\diziler-array-sinif-metodlari.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler-array-sinif-metodlari\bin\Debug\net7.0\diziler-array-sinif-metodlari.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler-array-sinif-metodlari\bin\Debug\net7.0\diziler-array-sinif-metodlari.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net7.0\diziler-array-sinif-metodlari.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net7.0\diziler-array-sinif-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net7.0\diziler-array-sinif-metodlari.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net7.0\diziler-array-sinif-metodlari.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net7.0\diziler-array-sinif-metodlari.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net7.0\diziler-array-sinif-metodlari.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net7.0\refint\diziler-array-sinif-metodlari.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net7.0\diziler-array-sinif-metodlari.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net7.0\diziler-array-sinif-metodlari.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net7.0\ref\diziler-array-sinif-metodlari.dll
