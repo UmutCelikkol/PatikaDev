@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler\bin\Debug\net7.0\diziler.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler\bin\Debug\net7.0\diziler.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler\bin\Debug\net7.0\diziler.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler\bin\Debug\net7.0\diziler.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler\bin\Debug\net7.0\diziler.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler\obj\Debug\net7.0\diziler.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler\obj\Debug\net7.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler\obj\Debug\net7.0\diziler.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler\obj\Debug\net7.0\diziler.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler\obj\Debug\net7.0\diziler.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler\obj\Debug\net7.0\diziler.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler\obj\Debug\net7.0\refint\diziler.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler\obj\Debug\net7.0\diziler.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler\obj\Debug\net7.0\diziler.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\diziler\obj\Debug\net7.0\ref\diziler.dll
