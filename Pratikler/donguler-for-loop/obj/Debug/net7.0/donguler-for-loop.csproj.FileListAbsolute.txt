@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\donguler-for-loop\bin\Debug\net7.0\donguler-for-loop.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\donguler-for-loop\bin\Debug\net7.0\donguler-for-loop.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\donguler-for-loop\bin\Debug\net7.0\donguler-for-loop.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\donguler-for-loop\bin\Debug\net7.0\donguler-for-loop.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\donguler-for-loop\bin\Debug\net7.0\donguler-for-loop.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\donguler-for-loop\obj\Debug\net7.0\donguler-for-loop.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\donguler-for-loop\obj\Debug\net7.0\donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\donguler-for-loop\obj\Debug\net7.0\donguler-for-loop.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\donguler-for-loop\obj\Debug\net7.0\donguler-for-loop.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\donguler-for-loop\obj\Debug\net7.0\donguler-for-loop.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\donguler-for-loop\obj\Debug\net7.0\donguler-for-loop.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\donguler-for-loop\obj\Debug\net7.0\refint\donguler-for-loop.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\donguler-for-loop\obj\Debug\net7.0\donguler-for-loop.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\donguler-for-loop\obj\Debug\net7.0\donguler-for-loop.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\donguler-for-loop\obj\Debug\net7.0\ref\donguler-for-loop.dll
