@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "metotlar-rekursif-extension/1.0.0": {
+        "runtime": {
+          "metotlar-rekursif-extension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "metotlar-rekursif-extension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
