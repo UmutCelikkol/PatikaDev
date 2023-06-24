@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\tip-donusumleri\bin\Debug\net7.0\tip-donusumleri.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\tip-donusumleri\bin\Debug\net7.0\tip-donusumleri.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\tip-donusumleri\bin\Debug\net7.0\tip-donusumleri.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\tip-donusumleri\bin\Debug\net7.0\tip-donusumleri.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\tip-donusumleri\bin\Debug\net7.0\tip-donusumleri.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\tip-donusumleri\obj\Debug\net7.0\refint\tip-donusumleri.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\tip-donusumleri\obj\Debug\net7.0\tip-donusumleri.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\tip-donusumleri\obj\Debug\net7.0\ref\tip-donusumleri.dll
