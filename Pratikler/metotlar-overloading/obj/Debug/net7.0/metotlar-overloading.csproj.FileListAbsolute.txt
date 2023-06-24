@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\metotlar-overloading\bin\Debug\net7.0\metotlar-overloading.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\metotlar-overloading\bin\Debug\net7.0\metotlar-overloading.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\metotlar-overloading\bin\Debug\net7.0\metotlar-overloading.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\metotlar-overloading\bin\Debug\net7.0\metotlar-overloading.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\metotlar-overloading\bin\Debug\net7.0\metotlar-overloading.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\metotlar-overloading\obj\Debug\net7.0\refint\metotlar-overloading.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\metotlar-overloading\obj\Debug\net7.0\ref\metotlar-overloading.dll
