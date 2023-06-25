@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\struct-kavrami\bin\Debug\net7.0\struct-kavrami.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\struct-kavrami\bin\Debug\net7.0\struct-kavrami.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\struct-kavrami\bin\Debug\net7.0\struct-kavrami.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\struct-kavrami\bin\Debug\net7.0\struct-kavrami.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\struct-kavrami\bin\Debug\net7.0\struct-kavrami.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\struct-kavrami\obj\Debug\net7.0\refint\struct-kavrami.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\struct-kavrami\obj\Debug\net7.0\struct-kavrami.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\struct-kavrami\obj\Debug\net7.0\ref\struct-kavrami.dll
