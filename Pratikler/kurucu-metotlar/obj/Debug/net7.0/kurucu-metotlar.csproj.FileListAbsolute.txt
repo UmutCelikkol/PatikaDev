@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\kurucu-metotlar\bin\Debug\net7.0\kurucu-metotlar.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\kurucu-metotlar\bin\Debug\net7.0\kurucu-metotlar.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\kurucu-metotlar\bin\Debug\net7.0\kurucu-metotlar.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\kurucu-metotlar\bin\Debug\net7.0\kurucu-metotlar.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\kurucu-metotlar\bin\Debug\net7.0\kurucu-metotlar.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\kurucu-metotlar\obj\Debug\net7.0\refint\kurucu-metotlar.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\kurucu-metotlar\obj\Debug\net7.0\ref\kurucu-metotlar.dll
