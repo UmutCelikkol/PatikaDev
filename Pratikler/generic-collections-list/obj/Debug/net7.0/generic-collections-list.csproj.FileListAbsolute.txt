@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\generic-collections-list\bin\Debug\net7.0\generic-collections-list.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\generic-collections-list\bin\Debug\net7.0\generic-collections-list.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\generic-collections-list\bin\Debug\net7.0\generic-collections-list.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\generic-collections-list\bin\Debug\net7.0\generic-collections-list.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\generic-collections-list\bin\Debug\net7.0\generic-collections-list.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\generic-collections-list\obj\Debug\net7.0\generic-collections-list.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\generic-collections-list\obj\Debug\net7.0\generic-collections-list.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\generic-collections-list\obj\Debug\net7.0\generic-collections-list.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\generic-collections-list\obj\Debug\net7.0\generic-collections-list.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\generic-collections-list\obj\Debug\net7.0\generic-collections-list.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\generic-collections-list\obj\Debug\net7.0\generic-collections-list.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\generic-collections-list\obj\Debug\net7.0\refint\generic-collections-list.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\generic-collections-list\obj\Debug\net7.0\generic-collections-list.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\generic-collections-list\obj\Debug\net7.0\generic-collections-list.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\generic-collections-list\obj\Debug\net7.0\ref\generic-collections-list.dll
