@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\odev-2\Koleksiyonlar-Soru-1\bin\Debug\net7.0\Koleksiyonlar-Soru-1.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\odev-2\Koleksiyonlar-Soru-1\bin\Debug\net7.0\Koleksiyonlar-Soru-1.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\odev-2\Koleksiyonlar-Soru-1\bin\Debug\net7.0\Koleksiyonlar-Soru-1.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\odev-2\Koleksiyonlar-Soru-1\bin\Debug\net7.0\Koleksiyonlar-Soru-1.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\odev-2\Koleksiyonlar-Soru-1\bin\Debug\net7.0\Koleksiyonlar-Soru-1.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\odev-2\Koleksiyonlar-Soru-1\obj\Debug\net7.0\Koleksiyonlar-Soru-1.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\odev-2\Koleksiyonlar-Soru-1\obj\Debug\net7.0\Koleksiyonlar-Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\odev-2\Koleksiyonlar-Soru-1\obj\Debug\net7.0\Koleksiyonlar-Soru-1.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\odev-2\Koleksiyonlar-Soru-1\obj\Debug\net7.0\Koleksiyonlar-Soru-1.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\odev-2\Koleksiyonlar-Soru-1\obj\Debug\net7.0\Koleksiyonlar-Soru-1.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\odev-2\Koleksiyonlar-Soru-1\obj\Debug\net7.0\Koleksiyonlar-Soru-1.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\odev-2\Koleksiyonlar-Soru-1\obj\Debug\net7.0\refint\Koleksiyonlar-Soru-1.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\odev-2\Koleksiyonlar-Soru-1\obj\Debug\net7.0\Koleksiyonlar-Soru-1.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\odev-2\Koleksiyonlar-Soru-1\obj\Debug\net7.0\Koleksiyonlar-Soru-1.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\odev-2\Koleksiyonlar-Soru-1\obj\Debug\net7.0\ref\Koleksiyonlar-Soru-1.dll
