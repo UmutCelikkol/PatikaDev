@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net7.0\hazir-metotlar-datetime-math.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net7.0\hazir-metotlar-datetime-math.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net7.0\hazir-metotlar-datetime-math.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net7.0\hazir-metotlar-datetime-math.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net7.0\hazir-metotlar-datetime-math.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net7.0\refint\hazir-metotlar-datetime-math.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net7.0\hazir-metotlar-datetime-math.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net7.0\ref\hazir-metotlar-datetime-math.dll
