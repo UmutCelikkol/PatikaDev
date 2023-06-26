@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-interface\bin\Debug\net7.0\OOP-interface.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-interface\bin\Debug\net7.0\OOP-interface.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-interface\bin\Debug\net7.0\OOP-interface.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-interface\bin\Debug\net7.0\OOP-interface.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-interface\bin\Debug\net7.0\OOP-interface.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-interface\obj\Debug\net7.0\OOP-interface.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-interface\obj\Debug\net7.0\OOP-interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-interface\obj\Debug\net7.0\OOP-interface.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-interface\obj\Debug\net7.0\OOP-interface.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-interface\obj\Debug\net7.0\OOP-interface.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-interface\obj\Debug\net7.0\OOP-interface.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-interface\obj\Debug\net7.0\refint\OOP-interface.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-interface\obj\Debug\net7.0\OOP-interface.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-interface\obj\Debug\net7.0\OOP-interface.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-interface\obj\Debug\net7.0\ref\OOP-interface.dll

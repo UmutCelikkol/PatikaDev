@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-inheritance\bin\Debug\net7.0\OOP-inheritance.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-inheritance\bin\Debug\net7.0\OOP-inheritance.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-inheritance\bin\Debug\net7.0\OOP-inheritance.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-inheritance\bin\Debug\net7.0\OOP-inheritance.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-inheritance\bin\Debug\net7.0\OOP-inheritance.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-inheritance\obj\Debug\net7.0\OOP-inheritance.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-inheritance\obj\Debug\net7.0\OOP-inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-inheritance\obj\Debug\net7.0\OOP-inheritance.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-inheritance\obj\Debug\net7.0\OOP-inheritance.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-inheritance\obj\Debug\net7.0\OOP-inheritance.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-inheritance\obj\Debug\net7.0\OOP-inheritance.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-inheritance\obj\Debug\net7.0\refint\OOP-inheritance.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-inheritance\obj\Debug\net7.0\OOP-inheritance.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-inheritance\obj\Debug\net7.0\OOP-inheritance.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-inheritance\obj\Debug\net7.0\ref\OOP-inheritance.dll

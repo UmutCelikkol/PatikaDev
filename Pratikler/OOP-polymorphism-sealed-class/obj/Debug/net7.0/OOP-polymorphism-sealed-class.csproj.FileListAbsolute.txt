@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-polymorphism-sealed-class\bin\Debug\net7.0\OOP-polymorphism-sealed-class.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-polymorphism-sealed-class\bin\Debug\net7.0\OOP-polymorphism-sealed-class.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-polymorphism-sealed-class\bin\Debug\net7.0\OOP-polymorphism-sealed-class.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-polymorphism-sealed-class\bin\Debug\net7.0\OOP-polymorphism-sealed-class.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-polymorphism-sealed-class\bin\Debug\net7.0\OOP-polymorphism-sealed-class.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-polymorphism-sealed-class\obj\Debug\net7.0\OOP-polymorphism-sealed-class.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-polymorphism-sealed-class\obj\Debug\net7.0\OOP-polymorphism-sealed-class.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-polymorphism-sealed-class\obj\Debug\net7.0\OOP-polymorphism-sealed-class.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-polymorphism-sealed-class\obj\Debug\net7.0\OOP-polymorphism-sealed-class.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-polymorphism-sealed-class\obj\Debug\net7.0\OOP-polymorphism-sealed-class.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-polymorphism-sealed-class\obj\Debug\net7.0\OOP-polymorphism-sealed-class.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-polymorphism-sealed-class\obj\Debug\net7.0\refint\OOP-polymorphism-sealed-class.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-polymorphism-sealed-class\obj\Debug\net7.0\OOP-polymorphism-sealed-class.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-polymorphism-sealed-class\obj\Debug\net7.0\OOP-polymorphism-sealed-class.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\Pratikler\OOP-polymorphism-sealed-class\obj\Debug\net7.0\ref\OOP-polymorphism-sealed-class.dll
