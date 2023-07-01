@@ -26,4 +26,4 @@ Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 ****** Ucus Yönetim Sistemi Sınıf Diyagramı ******
 
-![Yonetim-Sistemi](yonetim-sistemi.jpg)
+![Yonetim-Sistemi](ucus-yonetim-sistemi.jpg)
