@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ortalama_Hesaplama\bin\Debug\net7.0\Ortalama_Hesaplama.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ortalama_Hesaplama\bin\Debug\net7.0\Ortalama_Hesaplama.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ortalama_Hesaplama\bin\Debug\net7.0\Ortalama_Hesaplama.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ortalama_Hesaplama\bin\Debug\net7.0\Ortalama_Hesaplama.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ortalama_Hesaplama\bin\Debug\net7.0\Ortalama_Hesaplama.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ortalama_Hesaplama\obj\Debug\net7.0\Ortalama_Hesaplama.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ortalama_Hesaplama\obj\Debug\net7.0\Ortalama_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ortalama_Hesaplama\obj\Debug\net7.0\Ortalama_Hesaplama.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ortalama_Hesaplama\obj\Debug\net7.0\Ortalama_Hesaplama.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ortalama_Hesaplama\obj\Debug\net7.0\Ortalama_Hesaplama.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ortalama_Hesaplama\obj\Debug\net7.0\Ortalama_Hesaplama.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ortalama_Hesaplama\obj\Debug\net7.0\refint\Ortalama_Hesaplama.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ortalama_Hesaplama\obj\Debug\net7.0\Ortalama_Hesaplama.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ortalama_Hesaplama\obj\Debug\net7.0\Ortalama_Hesaplama.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ortalama_Hesaplama\obj\Debug\net7.0\ref\Ortalama_Hesaplama.dll

@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ucgen_Cizme\bin\Debug\net7.0\Ucgen_Cizme.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ucgen_Cizme\bin\Debug\net7.0\Ucgen_Cizme.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ucgen_Cizme\bin\Debug\net7.0\Ucgen_Cizme.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ucgen_Cizme\bin\Debug\net7.0\Ucgen_Cizme.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ucgen_Cizme\bin\Debug\net7.0\Ucgen_Cizme.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ucgen_Cizme\obj\Debug\net7.0\Ucgen_Cizme.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ucgen_Cizme\obj\Debug\net7.0\Ucgen_Cizme.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ucgen_Cizme\obj\Debug\net7.0\Ucgen_Cizme.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ucgen_Cizme\obj\Debug\net7.0\Ucgen_Cizme.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ucgen_Cizme\obj\Debug\net7.0\Ucgen_Cizme.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ucgen_Cizme\obj\Debug\net7.0\Ucgen_Cizme.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ucgen_Cizme\obj\Debug\net7.0\refint\Ucgen_Cizme.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ucgen_Cizme\obj\Debug\net7.0\Ucgen_Cizme.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ucgen_Cizme\obj\Debug\net7.0\Ucgen_Cizme.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Ucgen_Cizme\obj\Debug\net7.0\ref\Ucgen_Cizme.dll

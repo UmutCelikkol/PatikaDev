@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Daire_Cizme\bin\Debug\net7.0\Daire_Cizme.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Daire_Cizme\bin\Debug\net7.0\Daire_Cizme.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Daire_Cizme\bin\Debug\net7.0\Daire_Cizme.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Daire_Cizme\bin\Debug\net7.0\Daire_Cizme.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Daire_Cizme\bin\Debug\net7.0\Daire_Cizme.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Daire_Cizme\obj\Debug\net7.0\Daire_Cizme.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Daire_Cizme\obj\Debug\net7.0\Daire_Cizme.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Daire_Cizme\obj\Debug\net7.0\Daire_Cizme.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Daire_Cizme\obj\Debug\net7.0\Daire_Cizme.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Daire_Cizme\obj\Debug\net7.0\Daire_Cizme.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Daire_Cizme\obj\Debug\net7.0\Daire_Cizme.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Daire_Cizme\obj\Debug\net7.0\refint\Daire_Cizme.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Daire_Cizme\obj\Debug\net7.0\Daire_Cizme.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Daire_Cizme\obj\Debug\net7.0\Daire_Cizme.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Daire_Cizme\obj\Debug\net7.0\ref\Daire_Cizme.dll

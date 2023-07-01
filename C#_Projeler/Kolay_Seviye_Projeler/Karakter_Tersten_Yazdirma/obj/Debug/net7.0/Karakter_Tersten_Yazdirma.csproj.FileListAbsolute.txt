@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Karakter_Tersten_Yazdirma\bin\Debug\net7.0\Karakter_Tersten_Yazdirma.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Karakter_Tersten_Yazdirma\bin\Debug\net7.0\Karakter_Tersten_Yazdirma.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Karakter_Tersten_Yazdirma\bin\Debug\net7.0\Karakter_Tersten_Yazdirma.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Karakter_Tersten_Yazdirma\bin\Debug\net7.0\Karakter_Tersten_Yazdirma.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Karakter_Tersten_Yazdirma\bin\Debug\net7.0\Karakter_Tersten_Yazdirma.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Karakter_Tersten_Yazdirma\obj\Debug\net7.0\Karakter_Tersten_Yazdirma.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Karakter_Tersten_Yazdirma\obj\Debug\net7.0\Karakter_Tersten_Yazdirma.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Karakter_Tersten_Yazdirma\obj\Debug\net7.0\Karakter_Tersten_Yazdirma.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Karakter_Tersten_Yazdirma\obj\Debug\net7.0\Karakter_Tersten_Yazdirma.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Karakter_Tersten_Yazdirma\obj\Debug\net7.0\Karakter_Tersten_Yazdirma.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Karakter_Tersten_Yazdirma\obj\Debug\net7.0\Karakter_Tersten_Yazdirma.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Karakter_Tersten_Yazdirma\obj\Debug\net7.0\refint\Karakter_Tersten_Yazdirma.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Karakter_Tersten_Yazdirma\obj\Debug\net7.0\Karakter_Tersten_Yazdirma.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Karakter_Tersten_Yazdirma\obj\Debug\net7.0\Karakter_Tersten_Yazdirma.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Karakter_Tersten_Yazdirma\obj\Debug\net7.0\ref\Karakter_Tersten_Yazdirma.dll

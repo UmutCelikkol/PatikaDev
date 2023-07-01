@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Algoritma\bin\Debug\net7.0\Algoritma.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Algoritma\bin\Debug\net7.0\Algoritma.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Algoritma\bin\Debug\net7.0\Algoritma.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Algoritma\bin\Debug\net7.0\Algoritma.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Algoritma\bin\Debug\net7.0\Algoritma.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Algoritma\obj\Debug\net7.0\Algoritma.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Algoritma\obj\Debug\net7.0\Algoritma.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Algoritma\obj\Debug\net7.0\Algoritma.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Algoritma\obj\Debug\net7.0\Algoritma.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Algoritma\obj\Debug\net7.0\Algoritma.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Algoritma\obj\Debug\net7.0\Algoritma.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Algoritma\obj\Debug\net7.0\refint\Algoritma.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Algoritma\obj\Debug\net7.0\Algoritma.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Algoritma\obj\Debug\net7.0\Algoritma.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Kolay_Seviye_Projeler\Algoritma\obj\Debug\net7.0\ref\Algoritma.dll
