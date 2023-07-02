@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Barcode_Generator&Reader_App/1.0.0": {
+        "runtime": {
+          "Barcode_Generator&Reader_App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Barcode_Generator&Reader_App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

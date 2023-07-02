@@ -1,2 +1,2 @@
 # PatikaDev
-Patika Dev C# Ödevleri
+Patika Dev .NET CORE Patikalarinin proje ve odevleridir.

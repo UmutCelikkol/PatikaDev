@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Integer_Ikililerin_Toplami\bin\Debug\net7.0\Integer_Ikililerin_Toplami.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Integer_Ikililerin_Toplami\bin\Debug\net7.0\Integer_Ikililerin_Toplami.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Integer_Ikililerin_Toplami\bin\Debug\net7.0\Integer_Ikililerin_Toplami.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Integer_Ikililerin_Toplami\bin\Debug\net7.0\Integer_Ikililerin_Toplami.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Integer_Ikililerin_Toplami\bin\Debug\net7.0\Integer_Ikililerin_Toplami.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Integer_Ikililerin_Toplami\obj\Debug\net7.0\Integer_Ikililerin_Toplami.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Integer_Ikililerin_Toplami\obj\Debug\net7.0\Integer_Ikililerin_Toplami.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Integer_Ikililerin_Toplami\obj\Debug\net7.0\Integer_Ikililerin_Toplami.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Integer_Ikililerin_Toplami\obj\Debug\net7.0\Integer_Ikililerin_Toplami.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Integer_Ikililerin_Toplami\obj\Debug\net7.0\Integer_Ikililerin_Toplami.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Integer_Ikililerin_Toplami\obj\Debug\net7.0\Integer_Ikililerin_Toplami.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Integer_Ikililerin_Toplami\obj\Debug\net7.0\refint\Integer_Ikililerin_Toplami.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Integer_Ikililerin_Toplami\obj\Debug\net7.0\Integer_Ikililerin_Toplami.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Integer_Ikililerin_Toplami\obj\Debug\net7.0\Integer_Ikililerin_Toplami.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Integer_Ikililerin_Toplami\obj\Debug\net7.0\ref\Integer_Ikililerin_Toplami.dll
