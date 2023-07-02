@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Barcode_Generator&Reader_App\bin\Debug\net7.0\Barcode_Generator&Reader_App.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Barcode_Generator&Reader_App\bin\Debug\net7.0\Barcode_Generator&Reader_App.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Barcode_Generator&Reader_App\bin\Debug\net7.0\Barcode_Generator&Reader_App.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Barcode_Generator&Reader_App\bin\Debug\net7.0\Barcode_Generator&Reader_App.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Barcode_Generator&Reader_App\bin\Debug\net7.0\Barcode_Generator&Reader_App.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Barcode_Generator&Reader_App\obj\Debug\net7.0\Barcode_Generator&Reader_App.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Barcode_Generator&Reader_App\obj\Debug\net7.0\Barcode_Generator&Reader_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Barcode_Generator&Reader_App\obj\Debug\net7.0\Barcode_Generator&Reader_App.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Barcode_Generator&Reader_App\obj\Debug\net7.0\Barcode_Generator&Reader_App.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Barcode_Generator&Reader_App\obj\Debug\net7.0\Barcode_Generator&Reader_App.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Barcode_Generator&Reader_App\obj\Debug\net7.0\Barcode_Generator&Reader_App.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Barcode_Generator&Reader_App\obj\Debug\net7.0\refint\Barcode_Generator&Reader_App.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Barcode_Generator&Reader_App\obj\Debug\net7.0\Barcode_Generator&Reader_App.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Barcode_Generator&Reader_App\obj\Debug\net7.0\Barcode_Generator&Reader_App.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Barcode_Generator&Reader_App\obj\Debug\net7.0\ref\Barcode_Generator&Reader_App.dll

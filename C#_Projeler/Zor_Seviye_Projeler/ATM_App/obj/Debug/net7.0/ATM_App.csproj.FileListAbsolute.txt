@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\ATM_App\bin\Debug\net7.0\ATM_App.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\ATM_App\bin\Debug\net7.0\ATM_App.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\ATM_App\bin\Debug\net7.0\ATM_App.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\ATM_App\bin\Debug\net7.0\ATM_App.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\ATM_App\bin\Debug\net7.0\ATM_App.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\ATM_App\obj\Debug\net7.0\ATM_App.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\ATM_App\obj\Debug\net7.0\ATM_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\ATM_App\obj\Debug\net7.0\ATM_App.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\ATM_App\obj\Debug\net7.0\ATM_App.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\ATM_App\obj\Debug\net7.0\ATM_App.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\ATM_App\obj\Debug\net7.0\ATM_App.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\ATM_App\obj\Debug\net7.0\refint\ATM_App.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\ATM_App\obj\Debug\net7.0\ATM_App.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\ATM_App\obj\Debug\net7.0\ATM_App.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\ATM_App\obj\Debug\net7.0\ref\ATM_App.dll

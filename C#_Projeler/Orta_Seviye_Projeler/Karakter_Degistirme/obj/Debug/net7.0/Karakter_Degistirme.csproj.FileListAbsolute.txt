@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Karakter_Degistirme\bin\Debug\net7.0\Karakter_Degistirme.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Karakter_Degistirme\bin\Debug\net7.0\Karakter_Degistirme.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Karakter_Degistirme\bin\Debug\net7.0\Karakter_Degistirme.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Karakter_Degistirme\bin\Debug\net7.0\Karakter_Degistirme.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Karakter_Degistirme\bin\Debug\net7.0\Karakter_Degistirme.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Karakter_Degistirme\obj\Debug\net7.0\Karakter_Degistirme.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Karakter_Degistirme\obj\Debug\net7.0\Karakter_Degistirme.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Karakter_Degistirme\obj\Debug\net7.0\Karakter_Degistirme.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Karakter_Degistirme\obj\Debug\net7.0\Karakter_Degistirme.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Karakter_Degistirme\obj\Debug\net7.0\Karakter_Degistirme.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Karakter_Degistirme\obj\Debug\net7.0\Karakter_Degistirme.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Karakter_Degistirme\obj\Debug\net7.0\refint\Karakter_Degistirme.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Karakter_Degistirme\obj\Debug\net7.0\Karakter_Degistirme.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Karakter_Degistirme\obj\Debug\net7.0\Karakter_Degistirme.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Karakter_Degistirme\obj\Debug\net7.0\ref\Karakter_Degistirme.dll

@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Voting_App\bin\Debug\net7.0\Voting_App.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Voting_App\bin\Debug\net7.0\Voting_App.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Voting_App\bin\Debug\net7.0\Voting_App.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Voting_App\bin\Debug\net7.0\Voting_App.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Voting_App\bin\Debug\net7.0\Voting_App.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Voting_App\obj\Debug\net7.0\Voting_App.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Voting_App\obj\Debug\net7.0\Voting_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Voting_App\obj\Debug\net7.0\Voting_App.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Voting_App\obj\Debug\net7.0\Voting_App.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Voting_App\obj\Debug\net7.0\Voting_App.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Voting_App\obj\Debug\net7.0\Voting_App.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Voting_App\obj\Debug\net7.0\refint\Voting_App.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Voting_App\obj\Debug\net7.0\Voting_App.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Voting_App\obj\Debug\net7.0\Voting_App.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Zor_Seviye_Projeler\Voting_App\obj\Debug\net7.0\ref\Voting_App.dll

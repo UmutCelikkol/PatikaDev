@@ -1,0 +1,15 @@
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Mutlak_Kare_Alma\bin\Debug\net7.0\Mutlak_Kare_Alma.exe
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Mutlak_Kare_Alma\bin\Debug\net7.0\Mutlak_Kare_Alma.deps.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Mutlak_Kare_Alma\bin\Debug\net7.0\Mutlak_Kare_Alma.runtimeconfig.json
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Mutlak_Kare_Alma\bin\Debug\net7.0\Mutlak_Kare_Alma.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Mutlak_Kare_Alma\bin\Debug\net7.0\Mutlak_Kare_Alma.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Mutlak_Kare_Alma\obj\Debug\net7.0\Mutlak_Kare_Alma.csproj.AssemblyReference.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Mutlak_Kare_Alma\obj\Debug\net7.0\Mutlak_Kare_Alma.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Mutlak_Kare_Alma\obj\Debug\net7.0\Mutlak_Kare_Alma.AssemblyInfoInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Mutlak_Kare_Alma\obj\Debug\net7.0\Mutlak_Kare_Alma.AssemblyInfo.cs
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Mutlak_Kare_Alma\obj\Debug\net7.0\Mutlak_Kare_Alma.csproj.CoreCompileInputs.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Mutlak_Kare_Alma\obj\Debug\net7.0\Mutlak_Kare_Alma.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Mutlak_Kare_Alma\obj\Debug\net7.0\refint\Mutlak_Kare_Alma.dll
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Mutlak_Kare_Alma\obj\Debug\net7.0\Mutlak_Kare_Alma.pdb
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Mutlak_Kare_Alma\obj\Debug\net7.0\Mutlak_Kare_Alma.genruntimeconfig.cache
+D:\UMUT'S\SOFTWARE\Patika - .NET Core Patikası\PatikaDev\C#_Projeler\Orta_Seviye_Projeler\Mutlak_Kare_Alma\obj\Debug\net7.0\ref\Mutlak_Kare_Alma.dll
